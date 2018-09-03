@@ -1,8 +1,8 @@
 # wifi-controlled-multiwii
 Controlling Arduino based MultiWii using esp8266
 
-Recently I made Adruino based drone 
-Arduino nano with mpu6050 as flight controller
+Recently I made Adruino based drone <br>
+Arduino nano with mpu6050 as flight controller<br>
 esp8266-01 for controlling drone
 
 Instead of traditional radio control, esp8266 can be used as cheap alternative(No to fancy drone stunts and lot of features).
