@@ -15,6 +15,6 @@ For detailed instructions on how to bulid esp8266 contoller please follow above 
 <ul>For esp-01 set within pin 0 to 2 (pin 3 for Debug)</ul>
 
 <h1>MultiWii Flight Contoller</h1>
-<ul>In<b>config.h uncomment PPM mode</b>, PWM mode is set as default.</ul>
+<ul>In <b>config.h uncomment PPM mode</b>, PWM mode is set as default.</ul>
 
 <ul>In my as case as I used Arduino PPM input pin is <b>D2</b></ul>
