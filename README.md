@@ -18,8 +18,7 @@ For detailed instructions on how to bulid esp8266 contoller please follow above 
 <ul>In <b>config.h uncomment PPM mode</b>, PWM mode is set as default.</ul>
 
 <ul>In my case as I used Arduino, PPM input pin is <b>D2</b></ul><br>
-Basic MultiWii diagram<br>
-<a><img src="https://img.rcgroups.com/http://i.imgur.com/Nsj6Jjq.png?h=Em3qFsZvDtwvKzDLF5mOqA" title="source: rcgroups.com" /></a>
+
 
 
 MultiWiiConf<br>
